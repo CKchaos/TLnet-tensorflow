@@ -16,8 +16,7 @@ python3 train.py -c [class id] -g [gpu id] -i [batch_size]
 
 ```
 python3 train.py -c [class id] -g [gpu id] -i [img per gpu]
-#example
-#train the class bench with batch size 60 on 4 gpus
+#example: train the class bench with batch size 60 on 4 gpus
 python3 train.py -c 02828884 -g 0123 -i 15
 ```
 

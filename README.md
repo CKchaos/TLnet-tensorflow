@@ -65,6 +65,3 @@ python3 train.py -c 02828884 -g 0123 -i 15
 ![tabel9](examples/tabel9.png)
 ![tabel10](examples/tabel10.png)
 
-##### ......
-
-![1568501138](examples/1568501138.jpg)
